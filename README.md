@@ -1,0 +1,1 @@
+flask + graphene + react + apollo
